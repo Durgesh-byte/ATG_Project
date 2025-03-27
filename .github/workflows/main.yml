@@ -1,3 +1,4 @@
+#Trigger workflow after adding project files
 name: SonarCloud Scan
 on:
   push:
